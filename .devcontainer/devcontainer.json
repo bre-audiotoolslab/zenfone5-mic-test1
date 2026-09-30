@@ -1,0 +1,8 @@
+{
+  "name": "Zenfone 5 Mic Test",
+  "image": "mcr.microsoft.com/devcontainers/java:1-17-bookworm",
+  "features": {
+    "ghcr.io/NordcomInc/devcontainer-features/android-sdk:1.2.0": {}
+  },
+  "remoteUser": "vscode"
+}
