@@ -1,0 +1,16 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'com.breaudiotoolslab.zenfone5mictest'
+    compileSdk 34
+
+    defaultConfig {
+        applicationId 'com.breaudiotoolslab.zenfone5mictest'
+        minSdk 26
+        targetSdk 34
+        versionCode 1
+        versionName '1.0'
+    }
+}
